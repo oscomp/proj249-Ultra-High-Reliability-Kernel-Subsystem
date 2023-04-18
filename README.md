@@ -1,5 +1,3 @@
-# proj249-Ultra-High-Reliability-Kernel-Subsystem
-
 # Implementation of Ultra High Reliability Kernel Subsystem
 
 ### 项目名称
